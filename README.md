@@ -1,2 +1,2 @@
 # data-structures
-data-structured practice
+data-structures practice
